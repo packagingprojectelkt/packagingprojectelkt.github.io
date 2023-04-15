@@ -103,7 +103,7 @@ BANNER CLASSES
 .panel-wrapper { width:960px; margin:0 auto; overflow:hidden; margin-top:60px; border-bottom:1px solid #6e3942;}
 .panel-wrapper .panel { float:left; width:460px; margin-bottom:30px;}
 .panel-wrapper .title { padding-bottom:30px;}
-.panel-wrapper .imgbg{background:#6e3943; height:160px; position:relative; margin-bottom:30px;}
+.panel-wrapper .imgbg{background:#6e3943; height:465px; position:relative; margin-bottom:30px;}
 .panel-wrapper .imgbg-corl{background:url(../images/img-cor1.gif) no-repeat left top; width:8px; height:8px; position:absolute; left:0px; top:0px;}
 .panel-wrapper .imgbg-cor2{background:url(../images/img-cor2.gif) no-repeat left top; width:8px; height:8px; position:absolute; right:0px; top:0px;}
 .panel-wrapper .imgbg-cor3{background:url(../images/img-cor3.gif) no-repeat left top; width:8px; height:8px; position:absolute; left:0px; bottom:0px;}
