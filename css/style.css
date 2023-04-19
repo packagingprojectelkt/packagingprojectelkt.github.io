@@ -210,15 +210,6 @@ PORTFOLIO CLASSES
 /*-------------------------------------------------
 FOOTER CLASSS    
 -------------------------------------------------*/
-
-.footer-wrapper{width:100%; margin-top:80px;background:#e18868; overflow:hidden; height:auto;}
-.footer{width:960px; padding-top:60px; margin:0 auto;}
-.footer .panel{width:300px; float:left;}
-.footer .title h1{width:100%; padding-bottom:30px; color:#633039;}
-.footer .content p{color:#ffffff; padding-bottom:30px;}
-.footer .btnmore a{background:url(../images/btn-footer-more-n.gif) no-repeat; width:90px; height:40px; color:#e18868; display:block; text-align:center; line-height:40px; font-size:17px; font-weight:bold; margin-bottom:60px;}
-.footer .btnmore a:hover{background:url(../images/btn-footer-more-h.gif) no-repeat;  color:#633039;}
-.copyright {margin-top:50px;}
 .copyright p{width:960px; text-align:center; height:60px; line-height:60px; margin:0 auto; padding-bottom:60px;}
 .copyright a{color:#e18868;}
 .copyright a:hover{color:#ffffff;}
