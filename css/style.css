@@ -51,7 +51,7 @@ GENERAL CLASSES
 HEADER CLASSES
 -------------------------------------------------*/
 .wrapper{width:100%; background:url(../images/pattern1.jpg); padding-top:100px; height:140px;}
-.top-strip{width:960px; margin:0 auto; background:#e18868; overflow:hidden;    position:relative; }
+.top-strip{ height:139px; width:960px; margin:0 auto; background:#e18868; overflow:hidden;    position:relative; }
 .top-strip-cor1{width:10px; height:10px; background:url(../images/cor1.gif) no-repeat left top; position:absolute; left:0px; top:0px;}
 .top-strip-cor2{width:10px; height:10px; background:url(../images/cor2.gif) no-repeat right top; position:absolute; right:0px; top:0px;}
 .top-strip-cor3{width:10px; height:10px; background:url(../images/cor3.gif) no-repeat left bottom; position:absolute; left:0px; bottom:0px;} 
