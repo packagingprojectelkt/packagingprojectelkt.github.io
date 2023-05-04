@@ -122,12 +122,8 @@ PRIMARY CONTENT CLASSS
 .primary-content .panel .bdrBottom{border-bottom:none;}
 .primary-content .title { width:100%;}
 .primary-content .left{width:100px; float:left; margin-top:30px;}
-.primary-content .left .imgbg{background:#6e3943; height:100px; width:100px; position:relative; margin-bottom:40px; }
+.primary-content .left .imgbg{background:##536976; height:100px; width:100px; position:relative; margin-bottom:40px; }
 .primary-content .left .img{ float:left;  padding:6px;}
-.primary-content .left .imgbg-corl{background:url(../images/img-cor1.gif) no-repeat left top; width:8px; height:8px; position:absolute; left:0px; top:0px;}
-.primary-content .left .imgbg-cor2{background:url(../images/img-cor2.gif) no-repeat left top; width:8px; height:8px; position:absolute; right:0px; top:0px;}
-.primary-content .left .imgbg-cor3{background:url(../images/img-cor3.gif) no-repeat left top; width:8px; height:8px; position:absolute; left:0px; bottom:0px;}
-.primary-content .left .imgbg-cor4{background:url(../images/img-cor4.gif) no-repeat left top; width:8px; height:8px; position:absolute; right:0px; bottom:0px;}
 .primary-content .right{width:330px; float:left; margin-top:30px;}
 .primary-content .right p span{color:#e18868; }
 
@@ -165,7 +161,7 @@ RIGHT SECTION CLASSES
 .right-section .content .recentPost{ float:right; width:130px; line-height:18px;}
 .right-section .content .recentPost a{ text-decoration:none; color:#1da1df; float:left; padding-top:20px;}
 .right-section .content .recentPost a:hover{ color:#1a202c;}
-.right-section .content p{color:#e18868;float:right; padding-bottom:15px;}
+.right-section .content p{color:#1f2a31;float:right; padding-bottom:15px;}
 
 /*-------------------------------------------------
 SERVICES CLASSS    
@@ -185,11 +181,11 @@ CONTACT FORM CLASSS
 .contact-form label span {display: block; color:#fff;font-size:14px; float:left; width:80px; text-align:left; padding:5px 20px 0 0;}
 .contact-form .input_text {padding:10px 10px;width:420px;background:#6e3943;border:none; color:#939191;}
 .contact-form .message{padding:10px 10px;width:420px; background:#6e3943; border:none;overflow:hidden;height:150px; color:#939191; font-size:14px;}
-.contact-form .button{padding:8px;background:#e18868; color:#633039; text-transform:uppercase; font-family:'Roboto', sans-serif; border:0px solid;margin-left:100px;margin-top:20px;}
+.contact-form .button{padding:8px;background:#1f2a31; color:#633039; text-transform:uppercase; font-family:'Roboto', sans-serif; border:0px solid;margin-left:100px;margin-top:20px;}
 
 .address {width:320px;float:right; padding-top:30px;}
 .address .panel { border:none; color:#9b9e9a;}
-.address .panel .title h1 {  color:#e18868; padding-bottom:10px; font-weight:normal;}
+.address .panel .title h1 {  color:#ffffff; padding-bottom:10px; font-weight:normal;}
 .address .panel .content p{color:#fff;}
 .address .panel .content p span { color:#fff;}
 
@@ -198,12 +194,12 @@ PORTFOLIO CLASSES
 -------------------------------------------------*/
 
 .portfolio { overflow:hidden; width:960px; margin:0 auto; padding-top:30px;}
-.portfolio .title h2{ font-size:18px; font-weight:normal; padding-bottom:10px; margin-bottom:30px; padding-top:10px; color:#e18868;}
-.portfolio .panel { width:278px; border:none;  background:#633039; float:left; margin-bottom:30px; }
+.portfolio .title h2{ font-size:18px; font-weight:normal; padding-bottom:10px; margin-bottom:30px; padding-top:10px; color:#ffffff;}
+.portfolio .panel { width:278px; border:none;  background:#3d4e57; float:left; margin-bottom:30px; }
 .portfolio .panel .content { padding:10px; padding-bottom:20px;}
 .portfolio .panel .content p{ padding-bottom:20px;}
-.portfolio .panel .content p span{ padding-bottom:10px; padding-top:10px; border-bottom: 1px solid #592a32;  color:#e18868; display:block; font-size:14px;}
-.portfolio .panel .content a {background:#e18868; padding:7px; text-decoration:none; font-family:'Roboto', sans-serif; color:#ffffff; font-weight:normal; font-size:13px;}
+.portfolio .panel .content p span{ padding-bottom:10px; padding-top:10px; border-bottom: 1px solid #3d4e57;  color:#ffffff; display:block; font-size:14px;}
+.portfolio .panel .content a {background:#1f2a31; padding:7px; text-decoration:none; font-family:'Roboto', sans-serif; color:#ffffff; font-weight:normal; font-size:13px;}
 .portfolio .panel .content a:hover { background:#572931;}
 .portfolio .panel .content img{ padding-bottom:10px;}
 
